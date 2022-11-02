@@ -1,0 +1,18 @@
+{
+  "gilir": 0,
+  "key": [
+    "BAE512C284B18ADD"
+  ],
+  "template": "./storage_cabinets/image/9300.jpg",
+  "player1": {
+    "id": "6285817295045@s.whatsapp.net",
+    "jalan": 1,
+    "picture": "./storage_cabinets/image/3495.jpg"
+  },
+  "player2": {
+    "id": "6281361283683@s.whatsapp.net",
+    "setuju": true,
+    "jalan": 1,
+    "picture": "./storage_cabinets/image/9891.jpg"
+  }
+}
